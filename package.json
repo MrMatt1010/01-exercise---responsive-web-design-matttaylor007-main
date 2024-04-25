@@ -1,0 +1,11 @@
+{
+  "name": "01-exercise-css-responsive-web-design",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
